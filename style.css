@@ -1,0 +1,23 @@
+.mid__content{
+    max-width: 1500px;
+    margin: auto;
+}
+.default__room {
+    background-color: rgb(247, 247, 247);
+    padding: 10px 0 15px 20px;
+    border-radius: 10px;
+}
+.title {
+    text-align: center;
+    border-bottom: 2px solid gray;
+    margin-bottom: 25px;
+}
+.title h1 {
+    padding-bottom: 2px;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #0d6efd;
+    width: 260px;
+}
